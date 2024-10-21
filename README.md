@@ -21,3 +21,14 @@ The mesh data includes:
 - Vertex Groups
 - Shape Keys
 
+## Installation Instructions
+
+Open Blender go to Edit>Preferences Click on the Add-Ons Tab
+
+Choose Install
+
+Select the "MeshDataTransfer_<version>.zip" file
+
+Enable the Add-on ticking the Mesh:MeshDataTransfer checkbox
+
+![installation3](https://github.com/user-attachments/assets/4748fdf5-1867-45f7-a367-4c2a65cacdd6)
