@@ -1,5 +1,4 @@
 # mesh-data-transfer
-Please download & review the original add-on, by Maurizio Memoli, for free on Gumroad: https://mmemoli.gumroad.com/l/tOKEh.  
 Rehost of MeshDataTransfer Blender addon under the GPL Blender license, [see](https://www.blender.org/about/license/).  
 
 [![youtube](https://img.youtube.com/vi/CvMeK_IIw-Y/0.jpg)](https://www.youtube.com/watch?v=CvMeK_IIw-Y)  
