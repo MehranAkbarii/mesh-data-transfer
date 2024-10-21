@@ -1,10 +1,10 @@
-# mesh-data-transfer
+# Mesh Data Transfer for Blender
 Rehost of MeshDataTransfer Blender addon under the GPL Blender license, [see](https://www.blender.org/about/license/).  
 
 [![youtube](https://img.youtube.com/vi/CvMeK_IIw-Y/0.jpg)](https://www.youtube.com/watch?v=CvMeK_IIw-Y)  
 _Click the image to see the add-on in action_
 
-## about
+## About
 This add on is to transfer mesh data from a target to a specified source based on different sample spaces.  
 It works like the Maya mesh transfer attributes.  
 The add on lives in the Property panel under the mesh Data.  
